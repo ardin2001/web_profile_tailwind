@@ -11,10 +11,10 @@ const Banner = () => {
                 Ardin Nugraha
               </span>
             </h1>
-            <h2 className="font-medium text-slate-500 text-lg mb-5">
+            <h2 className="font-medium text-third text-lg mt-1 mb-5">
               Collega | Frontend Web
             </h2>
-            <p className="font-medium text-slate-400 mb-10 leading-relaxed">
+            <p className="font-medium text-third mb-10 leading-relaxed">
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed,
               quos?
             </p>

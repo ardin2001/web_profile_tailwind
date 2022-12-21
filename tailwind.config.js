@@ -10,8 +10,9 @@ module.exports = {
     },
     extend: {
       colors :{
-        primary : '#14b8a6',
+        primary : '#0ea5e9',
         secondary : '#0f172a',
+        third : '#475569'
       },
       screens :{
         '2xl' : '1350px'
