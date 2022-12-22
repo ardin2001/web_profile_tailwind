@@ -1,7 +1,7 @@
 import Profile from "../../assets/Illustration_2.png";
 const Banner = () => {
   return (
-    <section id="home" className="pt-36">
+    <section id="home" className="pt-10">
       <div className="container">
         <div className="flex flex-wrap">
           <div className="w-full self-center px-4 lg:w-1/2">
@@ -27,7 +27,7 @@ const Banner = () => {
           </div>
           <div className="w-full self-end px-4 lg:w-1/2">
             <div className="mt-10">
-              <img src={Profile} alt="ardin nugraha" className="max-w-md mx-auto" />
+              <img src={Profile} alt="ardin nugraha" className="max-w-full mx-auto" />
             </div>
           </div>
         </div>
