@@ -1,6 +1,7 @@
 import Header from "./components/Header/header";
 import Banner from "./components/Banner/banner";
 import About from "./components/About/about";
+import Portofolio from './components/Portofolio/portofolio'
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <main>
         <Banner />
         <About/>
+        <Portofolio />
       </main>
     </>
   );

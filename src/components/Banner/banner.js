@@ -1,4 +1,4 @@
-import Profile from "../../assets/Illustration_2.png";
+import Profile from "../../assets/ardin.png";
 const Banner = () => {
   return (
     <section id="home" className="pt-10">
@@ -27,7 +27,7 @@ const Banner = () => {
           </div>
           <div className="w-full self-end px-4 lg:w-1/2">
             <div className="mt-10">
-              <img src={Profile} alt="ardin nugraha" className="max-w-full mx-auto" />
+              <img src={Profile} alt="ardin nugraha" className="w-1/2 mx-auto rounded-3xl" />
             </div>
           </div>
         </div>
