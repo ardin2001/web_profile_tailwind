@@ -8,11 +8,10 @@ const Header = () =>{
                 <div className="text-2xl text-white lg:hidden"><button><FaBars /></button></div>
                 <nav className='w-1/3 hidden lg:block'>
                     <ul className='flex justify-between text-white'>
-                        <li className='hover:font-bold'>Home</li>
-                        <li className='hover:font-bold'>About</li>
-                        <li className='hover:font-bold'>Project</li>
-                        <li className='hover:font-bold'>Quotes</li>
-                        <li className='hover:font-bold'>Footer</li>
+                        <li className='hover:font-bold'><a href="/">Home</a></li>
+                        <li className='hover:font-bold'><a href="#about">About</a></li>
+                        <li className='hover:font-bold'><a href="#portofolio">Portofolio</a></li>
+                        <li className='hover:font-bold'><a href="#footer">Footer</a></li>
                     </ul>
                 </nav>
             </div>
