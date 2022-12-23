@@ -11,42 +11,42 @@ const data_portofolio = [
     title: "Capstone Project",
     image: project1,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis deserunt quam necessitatibus officia odio, illo omnis autem beatae, mollitia nobis dicta doloremque non quos nam earum voluptate consectetur facilis. Explicabo?",
+      "Project ini adalah capstone saya selama mengikuti program Studi Independen Batch 3 di dicoding. Menggunakan Library React JS dan framework CSS Bootsrtrap 5.",
   },
   {
     id : '2',
-    title: "Capstone Project",
+    title: "Notes App",
     image: project2,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis deserunt quam necessitatibus officia odio, illo omnis autem beatae, mollitia nobis dicta doloremque non quos nam earum voluptate consectetur facilis. Explicabo?",
+      "Project ini adalah submission dicoding pada kelas Belajar Furdamental React. Dimana saya mendapatkan rating bintang 5 karena menyelesaikan semua test case.",
   },
   {
     id : '3',
-    title: "Capstone Project",
+    title: "Restaurant Catalogue",
     image: project3,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis deserunt quam necessitatibus officia odio, illo omnis autem beatae, mollitia nobis dicta doloremque non quos nam earum voluptate consectetur facilis. Explicabo?",
+      "Project ini adalah submission pada kelas Belajar Frontend Web Expert. Dimana sudah menerapkan teknologi Progressive Web Apps sehingga user bisa merasakan seperti menggunakan mobile.",
   },
   {
     id : '4',
-    title: "Capstone Project",
+    title: "Bookshelf App",
     image: project4,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis deserunt quam necessitatibus officia odio, illo omnis autem beatae, mollitia nobis dicta doloremque non quos nam earum voluptate consectetur facilis. Explicabo?",
+      "Project ini adalah submission pada kelas Belajar Frontend Web Untuk Pemula. Dimana mencoba memanfaatkan localstorange untuk melakukan operasi CRUD data.",
   },
   {
     id : '5',
-    title: "Capstone Project",
+    title: "E-CHEST",
     image: project5,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis deserunt quam necessitatibus officia odio, illo omnis autem beatae, mollitia nobis dicta doloremque non quos nam earum voluptate consectetur facilis. Explicabo?",
+      "Project ini adalah project akhir pada matakuliah Pengembangan Perangkat Lunak Agroindustri. Dimana pada project ini saya menggunakan framework Express JS.",
   },
   {
     id : '6',
-    title: "Capstone Project",
+    title: "GadgetKu",
     image: project6,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis deserunt quam necessitatibus officia odio, illo omnis autem beatae, mollitia nobis dicta doloremque non quos nam earum voluptate consectetur facilis. Explicabo?",
+      "Project ini adalah project akhir pada matakuliah Pemprograman Berbasis Objek. Dimana pada project ini saya menggunakna bahasa C# dan menggunakan konsep paradigma OOP.",
   },
 ];
 
