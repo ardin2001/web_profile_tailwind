@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.true{
+    display: block;
+    background-color: white;
+    right: 10%;
+    padding: 10px 15px;
+    width: 120px;
+    font-size: 18px;
+}
+.false{
+    display: none;
+}
