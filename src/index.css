@@ -2,14 +2,19 @@
 @tailwind components;
 @tailwind utilities;
 
-.true{
-    display: block;
-    background-color: white;
-    right: 10%;
-    padding: 10px 15px;
-    width: 120px;
-    font-size: 18px;
-}
 .false{
-    display: none;
+    left: -180px;
+}
+@media only screen and (max-width: 1024px) {
+    .true{
+        display: block;
+        background-color: white;
+        right: 10%;
+        padding: 10px 15px;
+        width: 120px;
+        font-size: 18px;
+    }
+    nav ul li {
+        padding: 5px 0;
+    }
 }
