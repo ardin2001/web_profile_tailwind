@@ -1,7 +1,7 @@
 import Profile from "../../assets/ardin.png";
 const Banner = () => {
   return (
-    <section id="home" className="pt-10">
+    <section id="home" className="pt-10 mt-16">
       <div className="container">
         <div className="flex flex-wrap">
           <div className="w-full self-center px-4 lg:w-1/2">
@@ -22,7 +22,7 @@ const Banner = () => {
               href="https:www.com"
               className="text-base font-semibold text-white bg-primary py-3 px-8 rounded-full hover:shadow-lg hover:opacity-80"
             >
-              Hubungi Saya
+              Contact Me
             </a>
           </div>
           <div className="w-full self-end px-4 lg:w-1/2">
