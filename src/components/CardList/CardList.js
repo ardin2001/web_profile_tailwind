@@ -2,7 +2,7 @@ import CardItem from "../CardItem/CardItem";
 
 const CardList = ({ data, tester }) => {
   return (
-    <div className="flex flex-wrap justify-evenly p-4 md:px-36 lg:p-4">
+    <div className="flex flex-wrap justify-evenly">
       {console.log(data)}
       {console.log(tester)}
       {data.map(element => {

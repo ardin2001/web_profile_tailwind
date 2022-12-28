@@ -3,7 +3,7 @@ import Banner from "./components/Banner/banner";
 import About from "./components/About/about";
 import Portofolio from './components/Portofolio/portofolio'
 import Footer from "./components/Footer/Footer";
-import Skills from "./components/Skills";
+import Experience from "./components/Experience/Experience";
 
 function App() {
   return (
@@ -12,8 +12,8 @@ function App() {
       <main>
         <Banner />
         <About/>
+        <Experience />
         <Portofolio />
-        <Skills />
       </main>
       <Footer />
     </>
