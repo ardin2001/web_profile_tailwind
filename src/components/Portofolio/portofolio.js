@@ -12,7 +12,7 @@ const Portofolio = () => {
           Some below are some of the results of my project while learning
           programming
         </p>
-        <CardList data={data_portofolio} tester={"anjai"} />
+        <CardList data={data_portofolio} />
       </div>
     </section>
   );

@@ -1,10 +1,8 @@
 import CardItem from "../CardItem/CardItem";
 
-const CardList = ({ data, tester }) => {
+const CardList = ({ data}) => {
   return (
     <div className="flex flex-wrap justify-evenly">
-      {console.log(data)}
-      {console.log(tester)}
       {data.map(element => {
         return (
           <CardItem

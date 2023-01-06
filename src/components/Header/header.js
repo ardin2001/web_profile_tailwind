@@ -10,7 +10,7 @@ const Header = () => {
     });
   };
   return (
-    <header className={`${!toggle ? "bg-primary" : "bg-white"} shadow shadow-gray-400 fixed left-0 right-0 top-0`}>
+    <header className={`${!toggle ? "bg-primary" : "bg-white"} shadow shadow-gray-400 fixed left-0 right-0 top-0 z-50`}>
       <div className="container py-4 flex justify-between">
         <div className={`${!toggle ? "text-white" : "text-primary"} font-bold text-2xl lg:w-2/3 `}onClick={HandlerToggle}>
           Ardin Nugraha
